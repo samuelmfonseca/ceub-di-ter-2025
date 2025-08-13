@@ -1,0 +1,7 @@
+No começo da era dos smartphones, tudo era novidade. As pessoas estavam acostumadas a interagir com botões, cadernos, câmeras e outros objetos físicos. Para facilitar essa transição para o mundo digital, nasceu o skeuomorphism um estilo de design que imitava esses objetos no visual dos aplicativos.
+
+Era como se o celular dissesse: “Olha, este bloco de notas aqui é igual ao que você usa na vida real, pode confiar”. Ícones de câmeras pareciam câmeras de verdade, calendários lembravam agendas de papel e até o aplicativo de música tinha a aparência de um toca-discos. Esse realismo ajudava os usuários a se sentirem mais à vontade e entenderem intuitivamente como usar cada função.
+
+Com o tempo, porém, as pessoas se tornaram fluentes no “idioma” digital. Já não era necessário que um bloco de notas parecesse um caderno para sabermos que servia para escrever. O skeuomorphism, antes essencial, começou a parecer pesado, cheio de detalhes desnecessários e menos adaptável a diferentes tamanhos de tela. Foi então que o flat design, mais limpo e minimalista, tomou o seu lugar.
+
+Hoje, o skeuomorphism não é mais a tendência dominante, mas ainda aparece de forma pontual, especialmente quando o objetivo é trazer uma sensação de realismo, imersão ou nostalgia. Ele deixou de ser o protagonista, mas continua sendo uma técnica poderosa quando usada no momento certo.
